@@ -3,7 +3,7 @@
 
 Cost Intelligence Analyst at Canal and River Trust | Data Analysis | Data Visualisation | SQL | PowerBI | Python | Power Query
 
-## About :sunglasses:
+## About
 Originally a Maths graduate from Aberystwyth University, I now have 3+ years of experience as a Data Analyst, formerly for a NHS Trust and now at Canal and River Trust. 
 <br>I have some example projects within my Repositories:
 <br>PortfolioProjectsCovid: Explores a Covid dataset using SQL and PowerBI
@@ -16,6 +16,7 @@ Originally a Maths graduate from Aberystwyth University, I now have 3+ years of 
 - SQL
 - PowerBI
 - Power Query
+- Django
 
 ##  Contact Me :speech_balloon:
 <table>
