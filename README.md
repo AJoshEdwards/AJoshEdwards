@@ -4,17 +4,14 @@
 Cost Intelligence Analyst at Canal and River Trust | Data Analysis | Data Visualisation | SQL | PowerBI | Python | Power Query
 
 ## About
-Originally a Maths graduate from Aberystwyth University, I now have 3+ years of experience as a Data Analyst, formerly for a NHS Trust and now at Canal and River Trust. 
-<br>I have some example projects within my Repositories:
-<br>PortfolioProjectsCovid: Explores a Covid dataset using SQL and PowerBI
-<br>NorthWindFrontEnd: A quick C# project with some front end design using the Northwind Database.
-<br>Python: I'll be adding a python project shortly!
+Originally a Maths graduate from Aberystwyth University, Wales, I now have 5+ years of experience as a Data Analyst, having worked for a NHS Trust, The Canal and River Trust and currently for Monash Health based in Melbourne, Australia. 
+<br>For my latest projects and portfolio please visit: https://www.joshedwards-resume.co.uk/
 
 ## Technologies :fire:
-- Data Analysis with **Python**.
-- Excel
 - SQL
 - PowerBI
+- Data Analysis with **Python**.
+- Excel
 - Power Query
 - Django
 
