@@ -1,7 +1,7 @@
 # Hi! I'm <a href="https://www.linkedin.com/in/a-joshua-edwards/">Josh</a>  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 
 
-Cost Intelligence Analyst at Canal and River Trust | Data Analysis | Data Visualisation | SQL | PowerBI | Python | Power Query
+Business Intelligence Analyst at Monash Health, Melbourne | Data Analysis | Data Visualisation | SQL | PowerBI | Python | Power Query
 
 ## About
 Originally a Maths graduate from Aberystwyth University, Wales, I now have 5+ years of experience as a Data Analyst, having worked for a NHS Trust, The Canal and River Trust and currently for Monash Health based in Melbourne, Australia. 
@@ -10,7 +10,8 @@ Originally a Maths graduate from Aberystwyth University, Wales, I now have 5+ ye
 ## Technologies :fire:
 - SQL
 - PowerBI
-- Data Analysis with **Python**.
+- Data Analysis
+- Python
 - Excel
 - Power Query
 - Django
