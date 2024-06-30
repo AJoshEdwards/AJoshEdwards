@@ -4,7 +4,7 @@
 Business Intelligence Analyst at Monash Health, Melbourne | Data Analysis | Data Visualisation | SQL | PowerBI | Python | Power Query
 
 ## About
-Originally a Maths graduate from Aberystwyth University, Wales, I now have 5+ years of experience as a Data Analyst, having worked for a NHS Trust, The Canal and River Trust and currently for Monash Health based in Melbourne, Australia. 
+Originally a Maths graduate from Aberystwyth University, I now have 5+ years of experience as a Data Analyst, having worked for a NHS Trust, The Canal and River Trust and currently for Monash Health based in Melbourne, Australia. 
 <br>For my latest projects and portfolio please visit: https://www.joshedwards-resume.co.uk/
 
 ## Technologies :fire:
